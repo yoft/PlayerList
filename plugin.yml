@@ -1,0 +1,8 @@
+name: PlayerList
+version: 2.2.2
+main: yoft.PlayerList.PlayerList
+commands:
+  players:
+    description: Gives a list of players in your world.
+    aliases: players
+    usage: /players [world | "all"]
